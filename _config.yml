@@ -9,7 +9,6 @@ github_username:  nealford
 
 destination: _site
 
-
 # Build settings
 markdown: kramdown
 plugins:
