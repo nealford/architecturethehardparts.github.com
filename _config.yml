@@ -1,1 +1,35 @@
+title: Architecture: The Hard Parts
+email: neal.ford@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+    Companion site for the book Architecture: The Hard Parts
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://architecturethehardparts.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: neal4d
+github_username:  nealford
+
+destination: _site
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+#liquid
+error_mode: warn
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
+
 theme: jekyll-theme-tactile
