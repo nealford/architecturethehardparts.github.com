@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Architecture:
-# The Hard Parts
+# Architecture: The Hard Parts
 
 ![Architecture: The Hard Parts logo]({{ site.url }}/images/ahp-logo.png)
 
