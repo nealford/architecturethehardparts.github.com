@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # Architecture: The Hard Parts
