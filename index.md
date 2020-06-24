@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Architecture: The Hard Parts
-The companion site for the eponymous book
 
 ![Architecture: The Hard Parts logo]({{ site.url }}/images/ahp-logo.png)
 
@@ -48,6 +47,20 @@ Interspersed within the context of _Architecture: The Hard Parts_, we have _scen
 
 By studying the context and scenarios, amplified by  exercises, burgeoning architects can build a faster path towards enough context to understand that everything in software architecture is a tradeoff, and get down to the business of figuring out what those are.
 
+# A Work in Progress...
 
+Join us as we build this brand-new intellectual property iteratively. We discovered years ago that the best technical books don't fall from the sky but, like all good design, emerge from iterative, incremental improvement. We discovered that a terrific way to hone material comes from presenting it to engaged audiences--their questions lead to better versions of exposition, and the more instructors explain things, the more they understand them.
 
+To that end, we have three distinct versions of this IP that we're currently iterating on; each offers a different dimension/perspective on the material that we're melding into the final book.
 
+## _Architecture: The Hard Parts--Scenarios_ on the O'Reilly Online Learning Platform
+
+## One-day Hands-on Workshop (in person or online)
+
+## Two-day Intensive Hands-on Workshop (in person or online)
+
+More details on each soon, but to give you a flavor of the work in progress, here is the mind-map that we used to organized the in-person two-day workshop at the end of February 2020.
+
+![Mind map of work in progress]({ site.url }}/images/ahp-mindmap-snapshot-2020-03.png)
+
+# More to come soon! Stay tuned...
