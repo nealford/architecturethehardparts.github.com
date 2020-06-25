@@ -53,14 +53,28 @@ Join us as we build this brand-new intellectual property iteratively. We discove
 
 To that end, we have three distinct versions of this IP that we're currently iterating on; each offers a different dimension/perspective on the material that we're melding into the final book.
 
-## _Architecture: The Hard Parts--Scenarios_ on the O'Reilly Online Learning Platform
+
+--- 
+--- 
+## _Architecture: The Hard Parts--Scenarios_, a 3-hour Hands-on Class on the O'Reilly Online Learning Platform
+A scenario-based approach the Hard Parts problems, this class takes a sequence of questions about difficult parts of architecture ("How to choose the correct granularity for microservices", "How can I achieve high semantic coupling with low syntactic coupling") and provides the sets of tradeoffs an architecture must consider when confronting these decisions in the wild.
+
+* Next class: 26 August 2020, (O'Reilly membership required)
+![Register here](https://learning.oreilly.com/live-training/courses/architecture-the-hard-parts/0636920439196/]
+
+--- 
 
 ## One-day Hands-on Workshop (in person or online)
+A one-day, Hands-on workshop that splits the day into two parts: _Pulling Things Apart_ and _Putting Them Back Together_, which highlights the content of our book.
 
 ## Two-day Intensive Hands-on Workshop (in person or online)
+A two-day, intensive workshop that takes a full day for each part, delving into all the various measurements, metrics, techniques, tradeoffs, and pitfalls for a wide variety of difficult problems in architecture.
+
+--- 
 
 More details on each soon, but to give you a flavor of the work in progress, here is the mind-map that we used to organized the in-person two-day workshop at the end of February 2020.
 
 <a href="{{ site.url }}/images/ahp-mindmap-2020-03-full.png"> <img src="{{ site.url }}/images/ahp-mindmap-snapshot-2020-03.png" alt="Mind map of Architecture: The Hard Parts work in progress"/></a>
 
+---
 # More to come soon! Stay tuned...
