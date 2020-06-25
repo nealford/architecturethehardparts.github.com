@@ -61,6 +61,6 @@ To that end, we have three distinct versions of this IP that we're currently ite
 
 More details on each soon, but to give you a flavor of the work in progress, here is the mind-map that we used to organized the in-person two-day workshop at the end of February 2020.
 
-![Mind map of work in progress]({{ site.url }}/images/ahp-mindmap-snapshot-2020-03.png)
+<a href="{{ site.url }}/images/ahp-mindmap-2020-03-full.png"> <img src="{{ site.url }}/images/ahp-mindmap-snapshot-2020-03.png" alt="Mind map of Architecture: The Hard Parts work in progress"/></a>
 
 # More to come soon! Stay tuned...
