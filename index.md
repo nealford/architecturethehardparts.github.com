@@ -26,6 +26,8 @@ When architects encounter novel problems (by the way, they're all novel when you
 
 The real job of an architect is, when presented with a novel situation, how well can they delineate and understand the _tradeoffs_ on either side of the decision, so that the organization can make the best informed decision. 
 
+![Software Architecture: The Hard Parts book cover]({{ site.url }}/images/AHP-draft-cover.png)
+
 That's what this book does--start teaching architects how to make informed decisions about tough problems in architecture.
 
 One tried and true way to become an experienced architect is...experience. However, we can accelerate that process a bit by providing two critical things: context and scenarios.
@@ -59,8 +61,7 @@ To that end, we have three distinct versions of this IP that we're currently ite
 ## _Architecture: The Hard Parts--Scenarios_, a 3-hour Hands-on Class on the O'Reilly Online Learning Platform
 A scenario-based approach the Hard Parts problems, this class takes a sequence of questions about difficult parts of architecture ("How to choose the correct granularity for microservices", "How can I achieve high semantic coupling with low syntactic coupling") and provides the sets of tradeoffs an architecture must consider when confronting these decisions in the wild.
 
-* Next class: 26 August 2020, (O'Reilly membership required)
-![Register here](https://learning.oreilly.com/live-training/courses/architecture-the-hard-parts/0636920439196/]
+
 
 --- 
 
