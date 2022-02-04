@@ -4,7 +4,7 @@ layout: default
 
 # Architecture: The Hard Parts
 
-![Architecture: The Hard Parts cover]({{ site.url }}/images/AHP-cover.jpg]
+![Architecture: The Hard Parts cover]({{ site.url }}/images/AHP-cover.jpg])
 
 
 ## Architecture: The Hard Parts?
@@ -62,7 +62,7 @@ We don't provide silver bullets--rather, we inform readers on how to make inform
 
 ## Sysops Squad Scenarios
 
-<image src="{{ site.url }}/Sysops-Squad.png" align="left" style="padding: 2em;">
+<image src="{{ site.url }}/images/Sysops-Squad.png" align="left" style="padding: 2em;">
 Interspersed within the context of _Software Architecture: The Hard Parts_, we have numerous  _scenarios_: case studies and exercises that present real-world scenarios, to help simulate similar problems in the wild. We have many different scenarios, highlighting both single tradeoffs and also complex, multi-dimensional tradeoffs. Architecture by its nature is abstract; thus, an entire book of purely abstract concepts would be difficult to read. In Chapter One, we introduce the Sysops Squad, a mythical group within a mythical company that has some serious architecture problems they need to address. As we cover architecture concepts in the abstract, we illustrate how the Sysops Squad architects, developers, database administrators, project managers, and others implement those concepts.
 
 
