@@ -4,7 +4,7 @@ layout: default
 
 # Architecture: The Hard Parts
 
-![Architecture: The Hard Parts cover]({{ site.url }}/images/AHP-cover.jpg])
+![Architecture: The Hard Parts cover]({{ site.url }}/images/cover.png)
 
 
 ## Architecture: The Hard Parts?
