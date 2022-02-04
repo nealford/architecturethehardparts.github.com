@@ -4,7 +4,7 @@ layout: default
 
 # Architecture: The Hard Parts
 
-![Architecture: The Hard Parts logo]({{ site.url }}/images/ahp-logo.png)
+![Architecture: The Hard Parts cover]({{ site.url }}/images/AHP-cover.jpg]
 
 
 ## Architecture: The Hard Parts?
@@ -35,47 +35,34 @@ One tried and true way to become an experienced architect is...experience. Howev
 ## Context
 To understand something, you must have enough knowledge and vocabulary to contextualize it--it would be difficult to understand _snow_ if you didn't understand _precipitation_. To that end, the _Architecture: The Hard Parts_ book is organized in two parts: 
 
-### Pulling Things Apart…
+### Part 1: Pulling Things Apart…
 To make decisions about architecture, you must understand architecture, particuarly how the pieces fit together. This part describes how architects define coupling in architecture, how to analyse architecture, and how to use that knowledge to pull the pieces apart, for architecture restructuring, migration, or disintegration. We talk about the issues in architecture that drive from monolithic architectures towards distributed systems, including data architecture.
 
-### ...and Putting Them Back Together
-Building distributed architectures is hard, yet many applications end up here because of differing degrees of architecture characteristics. The second part of _Architecture: The Hard Parts_ describes common strategies for granularity for microservices, communication, contract management, and a host of other difficult problems in architecture. 
+#### Chapter 1: What Happens When There are no "Best Practices"?
+#### Chapter 2: Discerning Coupling in Software Architecture
+#### Chapter 3: Architectural Modularity
+#### Chapter 4: Architectural Decomposition
+#### Chapter 5: Component-based Decomposition Patterns
+#### Chapter 6: Pulling Apart Operational Data
+#### Chapter 7: Service Granularity
+
+### Part 2: ...and Putting Them Back Together
+Building distributed architectures is hard, yet many applications end up here because of differing degrees of architecture characteristics. The second part of _Architecture: The Hard Parts_ describes common strategies for granularity for microservices, communication, contract management, and a host of other difficult problems in architecture.
+
+#### Chapter 8: Reuse Patterns
+#### Chapter 9: Data Ownership and Distributed Transactions
+#### Chapter 10: Distributed Data Access
+#### Chapter 11: Managing Distributed Workflows
+#### Chapter 12: Transactional Sagas
+#### Chapter 13: Contracts
+#### Chapter 14: Managing Analytical Data
+#### Chapter 15: Build Your Own Trade-off Analysis
 
 We don't provide silver bullets--rather, we inform readers on how to make informed decisions within different contexts. To that end...
 
-## Scenarios
+## Sysops Squad Scenarios
 
-Interspersed within the context of _Architecture: The Hard Parts_, we have _scenarios_: case studies and exercises that present real-world scenarios, to help simulate similar problems in the wild. We have many different scenarios, highlighting both single tradeoffs and also complex, multi-dimensional tradeoffs. 
-
-By studying the context and scenarios, amplified by  exercises, burgeoning architects can build a faster path towards enough context to understand that everything in software architecture is a tradeoff, and get down to the business of figuring out what those are.
-
-# A Work in Progress...
-
-Join us as we build this brand-new intellectual property iteratively. We discovered years ago that the best technical books don't fall from the sky but, like all good design, emerge from iterative, incremental improvement. We discovered that a terrific way to hone material comes from presenting it to engaged audiences--their questions lead to better versions of exposition, and the more instructors explain things, the more they understand them.
-
-To that end, we have three distinct versions of this IP that we're currently iterating on; each offers a different dimension/perspective on the material that we're melding into the final book.
+<image src="{{ site.url }}/Sysops-Squad.png" align="left" style="padding: 2em;">
+Interspersed within the context of _Software Architecture: The Hard Parts_, we have numerous  _scenarios_: case studies and exercises that present real-world scenarios, to help simulate similar problems in the wild. We have many different scenarios, highlighting both single tradeoffs and also complex, multi-dimensional tradeoffs. Architecture by its nature is abstract; thus, an entire book of purely abstract concepts would be difficult to read. In Chapter One, we introduce the Sysops Squad, a mythical group within a mythical company that has some serious architecture problems they need to address. As we cover architecture concepts in the abstract, we illustrate how the Sysops Squad architects, developers, database administrators, project managers, and others implement those concepts.
 
 
---- 
---- 
-## _Architecture: The Hard Parts--Scenarios_, a 3-hour Hands-on Class on the O'Reilly Online Learning Platform
-A scenario-based approach the Hard Parts problems, this class takes a sequence of questions about difficult parts of architecture ("How to choose the correct granularity for microservices", "How can I achieve high semantic coupling with low syntactic coupling") and provides the sets of tradeoffs an architecture must consider when confronting these decisions in the wild.
-
-
-
---- 
-
-## One-day Hands-on Workshop (in person or online)
-A one-day, Hands-on workshop that splits the day into two parts: _Pulling Things Apart_ and _Putting Them Back Together_, which highlights the content of our book.
-
-## Two-day Intensive Hands-on Workshop (in person or online)
-A two-day, intensive workshop that takes a full day for each part, delving into all the various measurements, metrics, techniques, tradeoffs, and pitfalls for a wide variety of difficult problems in architecture.
-
---- 
-
-More details on each soon, but to give you a flavor of the work in progress, here is the mind-map that we used to organized the in-person two-day workshop at the end of February 2020.
-
-<a href="{{ site.url }}/images/ahp-mindmap-2020-03-full.png"> <img src="{{ site.url }}/images/ahp-mindmap-snapshot-2020-03.png" alt="Mind map of Architecture: The Hard Parts work in progress"/></a>
-
----
-# More to come soon! Stay tuned...
