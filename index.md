@@ -26,9 +26,7 @@ When architects encounter novel problems (by the way, they're all novel when you
 
 The real job of an architect is, when presented with a novel situation, how well can they delineate and understand the _tradeoffs_ on either side of the decision, so that the organization can make the best informed decision. 
 
-![Software Architecture: The Hard Parts book cover]({{ site.url }}/images/AHP-draft-cover.png)
-
-That's what this book does--start teaching architects how to make informed decisions about tough problems in architecture.
+That's what _Software Architecture: The Hard Parts_  does--start teaching architects how to make informed decisions about tough problems in architecture.
 
 One tried and true way to become an experienced architect is...experience. However, we can accelerate that process a bit by providing two critical things: context and scenarios.
 
@@ -63,6 +61,7 @@ We don't provide silver bullets--rather, we inform readers on how to make inform
 ## Sysops Squad Scenarios
 
 <image src="{{ site.url }}/images/Sysops-Squad.png" align="left" style="padding: 2em;">
+
 Interspersed within the context of _Software Architecture: The Hard Parts_, we have numerous  _scenarios_: case studies and exercises that present real-world scenarios, to help simulate similar problems in the wild. We have many different scenarios, highlighting both single tradeoffs and also complex, multi-dimensional tradeoffs. Architecture by its nature is abstract; thus, an entire book of purely abstract concepts would be difficult to read. In Chapter One, we introduce the Sysops Squad, a mythical group within a mythical company that has some serious architecture problems they need to address. As we cover architecture concepts in the abstract, we illustrate how the Sysops Squad architects, developers, database administrators, project managers, and others implement those concepts.
 
 
