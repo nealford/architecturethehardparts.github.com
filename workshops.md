@@ -72,7 +72,7 @@ Class which mixes exposition with visuals with team-based exercises.
 12. **Transactional Sagas**
 	- Primal forces in dynamic quantum coupling
 	- Eight transaction saga patterns
-13. **Contracts	**
+13. **Contracts**
 	- Strict Versus Loose Contracts
 	- Stamp Coupling
 14. **Managing Analytical Data**
