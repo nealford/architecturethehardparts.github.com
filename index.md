@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# Architecture: The Hard Parts
+# Software Architecture: The Hard Parts
 
 ![Architecture: The Hard Parts cover]({{ site.url }}/images/cover.png)
 
 
-## Architecture: The Hard Parts?
+## The Hard Parts?
 
 Why do authors write technical books about topics like software architecture? They write them when then have figured something out, a "best practice" that is general enough and has matured enough to tell the rest of the world. In fact, architects rely on the current (but always shifting) notion of "best practices" for guidance in solving tough problems.
 
@@ -20,13 +20,13 @@ But that's not true for architects.
 
 For architects, many problems present unique challenges because they conflate the exact environment and circumstances of your organization--what are the chances that someone has encountered exactly this scenario _and_ blogged it or posted it on Stack Overflow?
 
-# Welcome to _Architecture: The Hard Parts_
+# Welcome to _Software Architecture: The Hard Parts_
 
 When architects encounter novel problems (by the way, they're all novel when you become an architect), how do they make decisions if no "best practices" exist and no one has ever solved this problem before?
 
 The real job of an architect is, when presented with a novel situation, how well can they delineate and understand the _tradeoffs_ on either side of the decision, so that the organization can make the best informed decision. 
 
-That's what _Software Architecture: The Hard Parts_  does--start teaching architects how to make informed decisions about tough problems in architecture.
+That's what this book and related material  does--start teaching architects how to make informed decisions about tough problems in architecture.
 
 One tried and true way to become an experienced architect is...experience. However, we can accelerate that process a bit by providing two critical things: context and scenarios.
 
@@ -67,3 +67,4 @@ Interspersed within the context of <i>Software Architecture: The Hard Parts</i>,
 Each chapter starts and ends with a Sysops Squad scenario, and some chapters include intermediate decisions and trade-offs as well. The Sysops Squad allows us to answer specific questions about software architecture without trying to provide overly generic advice, which is useless in software architecture. Want to understand why? Read our book!
 
 
+[Workshops]({{ site.url }}/workshops)
