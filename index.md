@@ -67,4 +67,4 @@ Interspersed within the context of <i>Software Architecture: The Hard Parts</i>,
 Each chapter starts and ends with a Sysops Squad scenario, and some chapters include intermediate decisions and trade-offs as well. The Sysops Squad allows us to answer specific questions about software architecture without trying to provide overly generic advice, which is useless in software architecture. Want to understand why? Read our book!
 
 
-### [Workshops]({{ site.url }}/workshops)
+<h4><a href="{{ site.url }}/workshops">Workshops</a> </h4>
