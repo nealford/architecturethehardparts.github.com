@@ -24,7 +24,7 @@ Class which mixes exposition with visuals with team-based exercises.
 3. **Architecture Modularity**
    - Modularity Drivers
    - Sysops Squad Saga: Creating a business case
-4. **Architectural Decomposition	**
+4. **Architectural Decomposition**
    - Is the Codebase Decomposable?
    - Analysis metrics
    - Component-Based Decomposition 
